@@ -1,2 +1,0 @@
-set(__QT_DEPLOY_TARGET_appuntitled8_FILE C:/Users/VladimirS/Documents/untitled8/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/appuntitled8.exe)
-set(__QT_DEPLOY_TARGET_appuntitled8_RUNTIME_DLLS C:/Qty/6.8.0/mingw_64/bin/Qt6Quick.dll;C:/Qty/6.8.0/mingw_64/bin/Qt6QmlModels.dll;C:/Qty/6.8.0/mingw_64/bin/Qt6Qml.dll;C:/Qty/6.8.0/mingw_64/bin/Qt6Network.dll;C:/Qty/6.8.0/mingw_64/bin/Qt6OpenGL.dll;C:/Qty/6.8.0/mingw_64/bin/Qt6Gui.dll;C:/Qty/6.8.0/mingw_64/bin/Qt6Core.dll)
